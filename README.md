@@ -43,11 +43,6 @@ Replace `<notebook_name>` with the name of the notebook you wish to run.
 ## Results
 The findings indicate that deep learning models, particularly the GRU, perform best in terms of RMSE and R² metrics, suggesting these models are most suitable for handling the complexities of stock price data. For detailed performance metrics, please refer to the `results` section in each notebook.
 
-## Contributing
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-Specify the license under which the project is released, e.g., MIT, GPL, etc.
 
 ## Citation
 If you use this code or the findings from the accompanying paper in your research, please cite:
